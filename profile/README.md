@@ -1,6 +1,6 @@
 # Welcome to Hungovercoders 👋
 
-![Hungovercoders](.Twitter-Header-Image.png)
+![Hungovercoders](./Twitter-Header-Image.png)
 
 ## Mission
 
