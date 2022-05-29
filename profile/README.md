@@ -1,6 +1,6 @@
 # Welcome to Hungovercoders 👋
 
-![Hungovercoders](logo.png)
+![Hungovercoders](.logo.png)
 
 ## Mission
 
