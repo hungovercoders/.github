@@ -1,6 +1,6 @@
 # Welcome to Hungovercoders 👋
 
-![Hungovercoders](/logo.png)
+![Hungovercoders](https://github.com/hungovercoders/.github/blob/main/profile/logo.png)
 
 ## Mission
 
