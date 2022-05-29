@@ -1,5 +1,7 @@
 # Welcome to Hungovercoders 👋
 
+![Hungovercoders](Twitter Image.png)
+
 ## Mission
 
 * Create a fun and social coding society. 
