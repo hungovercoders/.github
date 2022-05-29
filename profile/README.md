@@ -1,7 +1,5 @@
 # Welcome to Hungovercoders 👋
 
-[[_TOC_]]
-
 ## Mission
 
 * Create a fun and social coding society. 
@@ -50,7 +48,7 @@
 * If we create good blog content and share it on twitter and linkedin we will increase viewings of a blog
 * If we create good video content and share it on twitter and linkedin we will increase viewings of a video
 
-#### Create Application to Encourage Socialising
+### Create Application to Encourage Socialising
 
 #### Customer
 * Hungovercoders
@@ -64,7 +62,7 @@
 * If we create a beer recognising application Cardiff hungovercoders will use it in 6 months
 * If we create a beer recognising application that produces competition with another locale non-Cardiff hungovercoders will use it
 
-#### Solve team configuration setup with team config tool
+### Solve team configuration setup with team config tool
 
 #### Customer
 * Coding teams everywhere
