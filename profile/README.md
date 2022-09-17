@@ -50,7 +50,7 @@
 * If we create good blog content and share it on twitter and linkedin we will increase viewings of a blog
 * If we create good video content and share it on twitter and linkedin we will increase viewings of a video
 
-### Encourage Socialising for Hungovercodes
+### Increase Socialisation for Hungovercodes
 
 #### Customer
 * Hungovercoders
