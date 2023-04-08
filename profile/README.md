@@ -1,4 +1,6 @@
-![Hungovercoders](images/logo.png)
+# Welcome to Hungovercoders 👋
+
+![Hungovercoders](https://github.com/hungovercoders/.github/blob/main/profile/logo.png)
 
 ## Mission
 
@@ -48,7 +50,7 @@
 * If we create good blog content and share it on twitter and linkedin we will increase viewings of a blog
 * If we create good video content and share it on twitter and linkedin we will increase viewings of a video
 
-### Create Application to Encourage Socialising
+### Increase Socialisation for Hungovercodes
 
 #### Customer
 * Hungovercoders
