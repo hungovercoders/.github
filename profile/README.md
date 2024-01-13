@@ -16,9 +16,9 @@ Create a fun and social coding society around the domains of dogs, rescue dogs, 
 * Coders wanting to share whiskey distillery information
 
 #### Key results
-1. [boolean] Dog rescues data available programatically by the end of March 2024.
-2. [boolean] Whiskey distilleries data available programatically by the end of March 2024.
-3. [boolean] Domain registration solution in place by the end of March 2024,
+1. **[boolean]** Dog rescues data available programatically by the end of March 2024.
+2. **[boolean]** Whiskey distilleries data available programatically by the end of March 2024.
+3. **[boolean]** Domain registration solution in place by the end of March 2024,
 
 #### Hypotheses
 * If we create a domain terraform solution we can apply it to Azure
@@ -32,17 +32,17 @@ Create a fun and social coding society around the domains of dogs, rescue dogs, 
 * Hungovercoders
 
 #### Key results
-1. Two blog posts in Jan 2024 read by four users each.
-2. Two blog posts in Feb 2024 read by four users each.
-3. Two blog posts in Mar 2024 read by four users each.
+1. **[integer]** Two blog posts in Jan 2024 read by four users each.
+2. **[integer]** Two blog posts in Feb 2024 read by four users each.
+3. **[integer]** Two blog posts in Mar 2024 read by four users each.
 
 #### Hypotheses
-* If we create a domain registration blog post in January that will mean only need one more blog post.
-* If we create a minimal dotnet API blog post in February that will mean only need one more blog post.
-* If we create a cloud dev template for cosmos dotnet container app blog post in February that will mean only need one more blog post.
-* If we create an organisational sel blog post in February that will mean only need one more blog post.
-* If we create a cloud dev template for fastapi mongo container app blog post in March that will mean only need one more blog post.
-* If we create a OKR github project framework blog post in March that will mean only need one more blog post.
+* If we create a domain registration blog post in January and post on linkedin we will get 4 readers.
+* If we create a minimal dotnet API blog post in January  and post on linkedin we will get 4 readers.
+* If we create a cloud dev template for cosmos dotnet container app blog post in February and post on linkedin we will get 4 readers.
+* If we create an organisational sel blog post in February and post on linkedin we will get 4 readers.
+* If we create a cloud dev template for fastapi mongo container app blog post in March and post on linkedin we will get 4 readers.
+* If we create a OKR github project framework blog post in March and post on linkedin we will get 4 readers.
 
 ### Increase Hungovercoder Knowledge
 
