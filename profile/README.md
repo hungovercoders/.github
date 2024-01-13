@@ -4,7 +4,7 @@
 
 ## Mission
 
-Create a fun and social coding society around the domains of dogs, rescue dogs, dog walking, whiskey, beer, food, film and music.
+Create a fun and social coding society around the domains of dogs, rescue dogs, dog walking, crafts, whiskey, beer, food, film and music.
 
 ## Objectives 202401
 
