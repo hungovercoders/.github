@@ -4,33 +4,26 @@
 
 ## Mission
 
-* Create a fun and social coding society. 
-* Make it easy to setup coding "gigs" that bring people together for informal gatherings.
-* Make it easy to share coding experiences and blogs with little formal rigour other than common sense with regards to being respectful.
-* Become one of the main resources for socialising amongst the online coding community.
-* Become a high standard knowledge base for relevant technical discussion in the coding community. 
-* Create open source projects that contribute to local, national and international socialising for coders.
-* Create open source projects that contribute to shared community coding problems.
-* Encourage friendly competition between locales with appropriate coding challenges that are mixed with solving community and socialising problems.
-* Make the coding community want to be a hungovercoder.
+Create a fun and social coding society around the domains of dogs, rescue dogs, dog walking, whiskey, beer, food, film and music.
 
 ## Objectives
 
-### Make hungovercoder gigs known in the offline community
+### Establish Hungovercoder Domains
 
 #### Customers
 
-* Coders in the South Wales area
-* Coders in another offline area
+* Coders wanting to promote dog rescue applications
+* Coders wanting to share whiskey distillery information
 
 #### Key results
-1. Create four hungovercoder meetups over the next year in the South Wales area
-2. Create one hungovercoder meetup over the next year in somewhere other than the South Wales area
+1. [boolean] Dog rescues data available programatically by the end of March 2024.
+2. [boolean] Whiskey distilleries data available programatically by the end of March 2024.
+3. [boolean] Domain registration solution in place by the end of March 2024,
 
 #### Hypotheses
-* If we create a hungovercoder meetup group we will get members. 
-* If we create a hungover meetup for the hungover coder meetup we will get attendees in the South Wales area.
-* If we create a hungover meetup for the hungover coder meetup we will get attendees in another area.
+* If we create a domain terraform solution we can apply it to Azure
+* If we expose adch dog resuces via an API we will ensure dog rescue data is available to programmers
+* If we expose whiskey distilleries via an API we will ensure whiskey distillery data is available to programmers
 
 ### Share knowledge in the online community
 
@@ -39,50 +32,30 @@
 * Hungovercoders
 
 #### Key results
-1. One blog a week is posted for a year.
-2. One video a month is posted for a year. 
-3. A blog is viewed more than ten times.
-4. A video is viewed more than one hundred times. 
+1. Two blog posts in Jan 2024.
+2. Two blog posts in Feb 2024.
+3. Two blog posts in Mar 2024.
 
 #### Hypotheses
-* If we create an easy to use blog we will post to it regularly.
-* If we create an easy to use online video host we will post to it regularly.
-* If we create good blog content and share it on twitter and linkedin we will increase viewings of a blog
-* If we create good video content and share it on twitter and linkedin we will increase viewings of a video
+* If we create a domain registration blog post in January that will mean only need one more blog post.
+* If we create a minimal dotnet API blog post in February that will mean only need one more blog post.
+* If we create a cloud dev template for cosmos dotnet container app blog post in February that will mean only need one more blog post.
+* If we create an organisational sel blog post in February that will mean only need one more blog post.
+* If we create a cloud dev template for fastapi mongo container app blog post in March that will mean only need one more blog post.
+* If we create a OKR github project framework blog post in March that will mean only need one more blog post.
 
-### Increase Socialisation for Hungovercodes
+### Increase Hungovercoder Knowledge
 
 #### Customer
 * Hungovercoders
 
 #### Key results
-1. Social application is used in Cardiff and has more than five users within 6 months
-2. Social application is used in somewhere other than Cardiff and has more than ten users within 12 months
+1. Hungovercoders have two certification by March 2024.
 
 #### Hypotheses
-* If we create a beer recognising application we will use it in 3 months
-* If we create a beer recognising application Cardiff hungovercoders will use it in 6 months
-* If we create a beer recognising application that produces competition with another locale non-Cardiff hungovercoders will use it
-
-### Solve team configuration setup with team config tool
-
-#### Customer
-* Coding teams everywhere
-* Coders who want to contribute to a shared team automation configuration solution
-* Team managers
-
-#### Key results
-1. Team config repo is starred by 5 github users within 6 months
-2. Team config project is contributed to by the community within 6 months
-3. Team config is used by the community within 12 months
-
-#### Hypotheses
-* If we talk about team config at a meetup we will get it starred and contributed to
-* If we blog and tweet about team config we will get it starred and contributed to
-* If we add devops, teams and Azure automation we will get the Micosoft community using it 
-* If we add jira, slack and AWS automation we will get the AWS community using it 
-* If we add documentation and team relationship diagrams added to it we will get the management community using it
-
+* If dataGriff does the Cosmos exam one hungovercoder will have a certification.
+* If dataGriff does the github foundations exam one hungovercoder will have a certification.
+* 
 <!--
 
 **Here are some ideas to get you started:**
