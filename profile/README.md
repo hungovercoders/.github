@@ -55,7 +55,7 @@ Create a fun and social coding society around the domains of dogs, rescue dogs, 
 #### Hypotheses
 * If dataGriff does the Cosmos exam one hungovercoder will have a certification.
 * If dataGriff does the github foundations exam one hungovercoder will have a certification.
-* 
+  
 <!--
 
 **Here are some ideas to get you started:**
