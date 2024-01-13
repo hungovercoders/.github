@@ -32,9 +32,9 @@ Create a fun and social coding society around the domains of dogs, rescue dogs, 
 * Hungovercoders
 
 #### Key results
-1. Two blog posts in Jan 2024.
-2. Two blog posts in Feb 2024.
-3. Two blog posts in Mar 2024.
+1. Two blog posts in Jan 2024 read by four users each.
+2. Two blog posts in Feb 2024 read by four users each.
+3. Two blog posts in Mar 2024 read by four users each.
 
 #### Hypotheses
 * If we create a domain registration blog post in January that will mean only need one more blog post.
