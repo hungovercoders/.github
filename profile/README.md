@@ -10,6 +10,10 @@ Create a fun and social coding society around the domains of dogs, rescue dogs, 
 
 ### Establish Hungovercoder Domains
 
+* Whiskey.Inventory
+* DogRescue.Inventory
+* Beer.Inventory
+
 #### Customers
 
 * Coders wanting to promote dog rescue applications
