@@ -6,59 +6,34 @@
 
 Create a fun and social coding society around the domains of dogs, rescue dogs, dog walking, crafts, whiskey, beer, food, film and music.
 
-## Objectives 202401
+## Objectives 202402
 
-### Establish Hungovercoder Domains
-
-* Whiskey.Inventory
-* DogRescue.Inventory
-* Beer.Inventory
+### Help Community Create Domain Orientated Platforms
 
 #### Customers
-
-* Coders wanting to promote dog rescue applications
-* Coders wanting to share whiskey distillery information
+* Coders interested in allocating scaled out domains for their software
 
 #### Key results
-1. **[boolean]** Dog rescues data available programatically by the end of March 2024.
-2. **[boolean]** Whiskey distilleries data available programatically by the end of March 2024.
-3. **[boolean]** Domain registration solution in place by the end of March 2024,
+1. 5 likes on the first post about azure platform domain registration on linkedin - mesh and events
+1. 5 likes on the second post about azure platform domain registration on linkedin - compute
+1. 5 likes on the third post about azure platform domain registration on linkedin - analytics and catalog
 
 #### Hypotheses
-* If we create a domain terraform solution we can apply it to Azure
-* If we expose adch dog resuces via an API we will ensure dog rescue data is available to programmers
-* If we expose whiskey distilleries via an API we will ensure whiskey distillery data is available to programmers
+* If we create a domain terraform solution for mesh and events we can apply it to Azure
+* If we create a compute solution for domain software we can apply it to Azure
+* If we create an analytics and compute solution for domains we can apply it to Azure
 
-### Share knowledge in the online community
-
-#### Customer
-* Coders everywhere who use the internet
-* Hungovercoders
-
-#### Key results
-1. **[integer]** Two blog posts in Jan 2024 read by four users each.
-2. **[integer]** Two blog posts in Feb 2024 read by four users each.
-3. **[integer]** Two blog posts in Mar 2024 read by four users each.
-
-#### Hypotheses
-* If we create a domain registration blog post in January and post on linkedin we will get 4 readers.
-* If we create a minimal dotnet API blog post in January  and post on linkedin we will get 4 readers.
-* If we create a cloud dev template for cosmos dotnet container app blog post in February and post on linkedin we will get 4 readers.
-* If we create an organisational sel blog post in February and post on linkedin we will get 4 readers.
-* If we create a cloud dev template for fastapi mongo container app blog post in March and post on linkedin we will get 4 readers.
-* If we create a OKR github project framework blog post in March and post on linkedin we will get 4 readers.
-
-### Increase Hungovercoder Knowledge
+### Increase Hungovercoder Knowledge of Data
 
 #### Customer
 * Hungovercoders
 
 #### Key results
-1. Hungovercoders have two certification by March 2024.
+1. Hungovercoders have a new data certification
 
 #### Hypotheses
-* If dataGriff does the Cosmos exam one hungovercoder will have a certification.
-* If dataGriff does the github foundations exam one hungovercoder will have a certification.
+* If dataGriff does the databricks engineering cert then hungovercoder will have a databricks certification.
+* If dataGriff does the cosmos cert then hungovercoder will have a databricks certification.
   
 <!--
 
