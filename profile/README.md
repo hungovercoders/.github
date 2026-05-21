@@ -2,46 +2,29 @@
 
 ![Hungovercoders](https://github.com/hungovercoders/.github/blob/main/profile/logo.png)
 
-## Mission
+# hungovercoders
 
-Create a fun and social coding society around the domains of dogs, rescue dogs, dog walking, crafts, whiskey, beer, food, film and music.
+> Small. Cheap. Yours. Source-controlled. Deployable by one slightly hungover
+> person on a Tuesday. The hungovercoders worldview, applied to data engineering
+> and adjacent crafts. Run by [dataGriff](https://github.com/dataGriff).
 
-## Objectives 202402
+## 🌐 The site
 
-### Help Community Create Domain Orientated Platforms
+Blog, training, and the worldview itself: **[hungovercoders.com](https://hungovercoders.com)**.
 
-#### Customers
-* Coders interested in allocating scaled out domains for their software
+## 📺 The channel
 
-#### Key results
-1. 5 likes on the first post about azure platform domain registration on linkedin - mesh and events
-1. 5 likes on the second post about azure platform domain registration on linkedin - compute
-1. 5 likes on the third post about azure platform domain registration on linkedin - analytics and catalog
+YouTube: **[@hungovercoders](https://youtube.com/@hungovercoders)**. New video
+every fortnight during a training-series launch; one a month otherwise.
 
-#### Hypotheses
-* If we create a domain terraform solution for mesh and events we can apply it to Azure
-* If we create a compute solution for domain software we can apply it to Azure
-* If we create an analytics and compute solution for domains we can apply it to Azure
+## 📚 The repos
 
-### Increase Hungovercoder Knowledge of Data
+### Where the brand lives
+- **[library](https://github.com/hungovercoders/library)** — templates, worked examples, and the technical playbook. The publishable subset of the content system.
+- **[site](https://github.com/hungovercoders/site)** — the Astro project that builds hungovercoders.com.
+- **[brand](https://github.com/hungovercoders/brand)** — logos, fonts, palette, thumbnail templates.
 
-#### Customer
-* Hungovercoders
+### Where the tutorials live
+- **[learn.bento](https://github.com/hungovercoders/learn.bento)** — YAML-first stream processing with Bento.
+- *(more series appear as they ship)*
 
-#### Key results
-1. Hungovercoders have a new data certification
-
-#### Hypotheses
-* If dataGriff does the databricks engineering cert then hungovercoder will have a databricks certification.
-* If dataGriff does the cosmos cert then hungovercoder will have a databricks certification.
-  
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
